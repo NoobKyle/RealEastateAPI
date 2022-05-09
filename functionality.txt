@@ -1,0 +1,9 @@
+This is a Real Estate REST API that will later be connected to a front end web app.
+
+Functionality:
+  -Get a list of available houses
+  -House has:
+    Address, Cost, Bedrooms, Baths, Square Feet, Extras( pet friendly, garden, pool)
+
+Rest Functionality:
+  -Create, Read, Update, Delete
